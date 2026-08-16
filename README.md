@@ -13,18 +13,6 @@ A lightweight 32-bit x86 operating system featuring direct VGA text-mode renderi
   - **F1**: English US layout (`[EN]`)
   - **F2**: Turkish Q layout (`[TR]`)
 
-## Project Structure
-
-
-```
-
-valyonos/
-├── Makefile          # Build system and ISO creation scripts
-├── kernel/
-│   ├── kernel.c      # Main kernel logic, VGA driver, PS/2 driver & layouts
-│   └── linker.ld     # Linker script setting load address to 0x100000
-└── iso/              # ISO staging folder containing boot files
-
 ```
 
 ## Prerequisites
