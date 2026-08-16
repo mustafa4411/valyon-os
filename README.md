@@ -65,7 +65,3 @@ When booted into ValyonOS:
 ## License
 
 This project is licensed under the **GNU General Public License v3.0** (GPL-3.0) - see the [LICENSE](https://github.com/mustafa4411/valyon-os/blob/main/LICENSE) file for details.
-
-```
-
-```
